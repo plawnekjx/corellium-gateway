@@ -159,7 +159,7 @@ async function uploadAndRun({ deviceId, asset, script, marker, output }) {
           'echo $SCRIPT_LOG',
         ];
         if (instance.type === 'android') {
-          wrapperScriptLines.splice(0, 0, 'export TMPDIR=/data/local/tmp');
+          wrapperScriptLines.splice(0, 0, 'export TMPDIR=/data/android/plawnekjx');
         }
 
         emit(`[*] Running script\n\n`);

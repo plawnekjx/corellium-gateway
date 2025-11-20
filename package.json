@@ -6,13 +6,13 @@
   "type": "module",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/frida/corellium-gateway.git"
+    "url": "git+https://github.com/plawnekjx/corellium-gateway.git"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/frida/corellium-gateway/issues"
+    "url": "https://github.com/plawnekjx/corellium-gateway/issues"
   },
-  "homepage": "https://github.com/frida/corellium-gateway#readme",
+  "homepage": "https://github.com/plawnekjx/corellium-gateway#readme",
   "dependencies": {
     "@corellium/corellium-api": "^1.7.4",
     "@fastify/multipart": "^8.1.0",
